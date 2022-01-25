@@ -13,7 +13,7 @@ packaging
 pyparsing==2.0.2
 
 #Converage
-coverage==6.2
+coverage==6.3
 pytest-cov==3.0.0
 
 -r requirements.txt
