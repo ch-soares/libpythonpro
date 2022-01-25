@@ -1,0 +1,19 @@
+flake8==4.0.1
+mccabe==0.6.1
+pycodestyle==2.8.0
+pyflakes==2.4.0
+
+# Deps do pytest
+attrs==19.2.0
+iniconfig
+toml
+pluggy==0.12
+py==1.8.2
+packaging
+pyparsing==2.0.2
+
+#Converage
+coverage==6.2
+pytest-cov==3.0.0
+
+-r requirements.txt
