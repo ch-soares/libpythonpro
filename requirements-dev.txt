@@ -1,6 +1,6 @@
 attrs==21.4.0
 coverage==6.3.2
-flake8==4.0.1
+flake8==5.0.1
 iniconfig==1.1.1
 mccabe==0.7.0
 packaging==21.3
